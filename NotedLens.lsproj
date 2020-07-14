@@ -3,7 +3,7 @@
     "document_id": "BnqI_qTm0eFDykFFwIsK",
     "original_document_id": "BnqI_qTm0eFDykFFwIsK",
     "version": "24",
-    "lastChanged": "1594685537342",
+    "lastChanged": "1594685583193",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,9 +30,6 @@
             "collapsedList": [
                 [
                     [
-                        "Cutive Mono"
-                    ],
-                    [
                         "DancingScript"
                     ],
                     [
@@ -45,9 +42,6 @@
                     [
                         "Echopark",
                         "Specular"
-                    ],
-                    [
-                        "Postit"
                     ],
                     [
                         "Postit",
@@ -250,14 +244,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "27",
-                    "uid": "1594685310577762:637326",
-                    "name": "Files\/File37.ttf",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "28",
                     "uid": "1594685327166815:639511",
                     "name": "Files\/File38.ttf",
@@ -409,10 +395,6 @@
                     "v": "Files\/File34.png"
                 },
                 {
-                    "k": "37",
-                    "v": "Files\/File37.ttf"
-                },
-                {
                     "k": "38",
                     "v": "Files\/File38.ttf"
                 }
@@ -458,10 +440,6 @@
                     {
                         "k": "982",
                         "v": "Textures\/white.png"
-                    },
-                    {
-                        "k": "985",
-                        "v": "Cutive Mono.ttf"
                     },
                     {
                         "k": "986",
@@ -537,17 +515,10 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-13T17:08:47",
+                        "lastModified": "2020-07-13T17:13:01",
                         "name": "Public",
-                        "hash": "f4985679d5b65c2240eabbb5ea80e3dd",
+                        "hash": "bb158f3cfcd3d917e86d724612309dd5",
                         "children": [
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2020-06-03T23:10:03",
-                                "name": "Cutive Mono.ttf",
-                                "hash": "fa1a2b3dccd133349ebedc12bafa9a8e",
-                                "children": ""
-                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2019-02-21T15:35:44",
@@ -958,19 +929,6 @@
                         ]
                     },
                     {
-                        "name": "Cutive Mono",
-                        "type": "13",
-                        "subtype": "0",
-                        "resourceId": "27",
-                        "dependency": "0",
-                        "uid": "1594685310577762:637326",
-                        "fileId": "37",
-                        "originalId": "18446744073709551615",
-                        "publicId": "985",
-                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/CutiveMono-Regular.ttf",
-                        "additional": ""
-                    },
-                    {
                         "name": "DancingScript",
                         "type": "13",
                         "subtype": "0",
@@ -987,11 +945,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1594685266982943:631376"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
