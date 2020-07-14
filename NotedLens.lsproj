@@ -3,7 +3,7 @@
     "document_id": "BnqI_qTm0eFDykFFwIsK",
     "original_document_id": "BnqI_qTm0eFDykFFwIsK",
     "version": "24",
-    "lastChanged": "1594684931572",
+    "lastChanged": "1594685537342",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,6 +30,12 @@
             "collapsedList": [
                 [
                     [
+                        "Cutive Mono"
+                    ],
+                    [
+                        "DancingScript"
+                    ],
+                    [
                         "Echopark"
                     ],
                     [
@@ -41,43 +47,58 @@
                         "Specular"
                     ],
                     [
-                        "Postit0"
+                        "Postit"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Animations"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Materials"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Materials",
                         "0"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Meshes"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Meshes",
                         "c0001"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Meshes",
                         "c0002"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "Meshes",
                         "p0000"
                     ],
                     [
-                        "Postit0",
+                        "Postit",
                         "th_07_11"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "white"
                     ]
                 ]
             ]
@@ -203,6 +224,46 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1594684974572028:591699",
+                    "name": "Files\/File27.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1594684974600609:591715",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1594685082353967:606241",
+                    "name": "Files\/File33.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1594685310577762:637326",
+                    "name": "Files\/File37.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1594685327166815:639511",
+                    "name": "Files\/File38.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -235,7 +296,8 @@
                 "6": "1594684422426208:521312",
                 "7": "1594684422427305:521322",
                 "8": "1594684422428901:521339",
-                "9": "1594684422430027:521356"
+                "9": "1594684422430027:521356",
+                "10": "1594685266982943:631376"
             }
         },
         "LayerComponent": {
@@ -321,6 +383,38 @@
                 {
                     "k": "18",
                     "v": "Files\/File18.oprfb"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.ttf"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.ttf"
                 }
             ]
         },
@@ -339,7 +433,7 @@
                     },
                     {
                         "k": "971",
-                        "v": "Postit0.obj"
+                        "v": "Postit.obj"
                     },
                     {
                         "k": "972",
@@ -348,6 +442,30 @@
                     {
                         "k": "973",
                         "v": "..\/AdditionalFiles\/th_07_11\/Materials\/0.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Cutive Mono.ttf"
+                    },
+                    {
+                        "k": "986",
+                        "v": "DancingScript.ttf"
                     }
                 ],
                 "hashes": [
@@ -369,7 +487,7 @@
                     },
                     {
                         "k": "973",
-                        "v": "7e1b888206a50041f9606174d295ba12"
+                        "v": "899a443c88ebffc8afc7473d1027e7d7"
                     },
                     {
                         "k": "975",
@@ -382,20 +500,102 @@
                     {
                         "k": "977",
                         "v": "a79eeea2481518d2ebeaaf591ad3e57b"
+                    },
+                    {
+                        "k": "979",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "980",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "981",
+                        "v": "ab75e2740f88076e0ba29fe322c0b38f"
+                    },
+                    {
+                        "k": "982",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "983",
+                        "v": "29247b8e4b304b8d8129791f1f8ec7a5"
+                    },
+                    {
+                        "k": "984",
+                        "v": "032deb5a7f2e494738fba4c72f6d243d"
+                    },
+                    {
+                        "k": "985",
+                        "v": "fa1a2b3dccd133349ebedc12bafa9a8e"
+                    },
+                    {
+                        "k": "986",
+                        "v": "78132c6450403faefc3f440b2bb3b24a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-13T17:02:08",
+                        "lastModified": "2020-07-13T17:08:47",
                         "name": "Public",
-                        "hash": "b2acfa418e7712c62138b35c78d9cdf1",
+                        "hash": "f4985679d5b65c2240eabbb5ea80e3dd",
                         "children": [
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-06-03T23:10:03",
+                                "name": "Cutive Mono.ttf",
+                                "hash": "fa1a2b3dccd133349ebedc12bafa9a8e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2019-02-21T15:35:44",
-                                "name": "Postit0.obj",
+                                "name": "Postit.obj",
                                 "hash": "95c6442bb54816c2007b270668d21e1c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-13T17:04:42",
+                                "name": "Textures",
+                                "hash": "df7207246527c0622e45025f6b5f35e6",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T17:02:54",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T17:02:54",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T17:04:42",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-13T17:02:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-03T23:10:03",
+                                "name": "DancingScript.ttf",
+                                "hash": "78132c6450403faefc3f440b2bb3b24a",
                                 "children": ""
                             },
                             {
@@ -498,7 +698,7 @@
                         ]
                     },
                     {
-                        "name": "Postit0",
+                        "name": "Postit",
                         "type": "18",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -702,6 +902,86 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "978",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1594684974572028:591699",
+                                "fileId": "27",
+                                "originalId": "28",
+                                "publicId": "979",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-tOmHlu\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1594684974600609:591715",
+                                "fileId": "29",
+                                "originalId": "30",
+                                "publicId": "980",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-tOmHlu\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1594685082353967:606241",
+                                "fileId": "33",
+                                "originalId": "34",
+                                "publicId": "982",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-tOmHlu\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cutive Mono",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1594685310577762:637326",
+                        "fileId": "37",
+                        "originalId": "18446744073709551615",
+                        "publicId": "985",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/CutiveMono-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "DancingScript",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1594685327166815:639511",
+                        "fileId": "38",
+                        "originalId": "18446744073709551615",
+                        "publicId": "986",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/DancingScript-Regular.ttf",
+                        "additional": ""
                     }
                 ]
             }
@@ -709,7 +989,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1594684422426208:521312"
+                    "1594685266982943:631376"
                 ]
             }
         },
