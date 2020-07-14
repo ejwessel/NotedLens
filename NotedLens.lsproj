@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "1c4aa651-fe87-41a5-b21d-cd574c0067a3",
     "document_id": "BnqI_qTm0eFDykFFwIsK",
     "original_document_id": "BnqI_qTm0eFDykFFwIsK",
     "version": "24",
-    "lastChanged": "1594685664448",
+    "lastChanged": "1594686840028",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -42,6 +42,9 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "IconSource"
                     ],
                     [
                         "Postit",
@@ -103,9 +106,13 @@
             ]
         },
         "MetaInfoUIComponent": {
+            "icon_hash": "637099f9b3d378be666f04340e5680ad",
+            "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
-            "hints": "",
-            "lens": "Untitled",
+            "hints": [
+                ""
+            ],
+            "lens": "Noted",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -247,6 +254,14 @@
                     "resId": "28",
                     "uid": "1594685327166815:639511",
                     "name": "Files\/File38.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1594686408963351:772995",
+                    "name": "Files\/File39.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -397,6 +412,14 @@
                 {
                     "k": "38",
                     "v": "Files\/File38.ttf"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
                 }
             ]
         },
@@ -444,6 +467,10 @@
                     {
                         "k": "986",
                         "v": "DancingScript.ttf"
+                    },
+                    {
+                        "k": "987",
+                        "v": "IconSource.png"
                     }
                 ],
                 "hashes": [
@@ -510,14 +537,18 @@
                     {
                         "k": "986",
                         "v": "78132c6450403faefc3f440b2bb3b24a"
+                    },
+                    {
+                        "k": "987",
+                        "v": "bef94a8b0865d763b1646b599bcc0632"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-13T17:13:01",
+                        "lastModified": "2020-07-13T17:27:02",
                         "name": "Public",
-                        "hash": "bb158f3cfcd3d917e86d724612309dd5",
+                        "hash": "808630ab50ef1f4c214c53dbf2dd8cdc",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -574,6 +605,13 @@
                                 "lastModified": "2020-06-03T23:09:59",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-13T17:26:42",
+                                "name": "IconSource.png",
+                                "hash": "bef94a8b0865d763b1646b599bcc0632",
                                 "children": ""
                             },
                             {
@@ -940,16 +978,25 @@
                         "publicId": "986",
                         "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/DancingScript-Regular.ttf",
                         "additional": ""
+                    },
+                    {
+                        "name": "IconSource",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "uid": "1594686408963351:772995",
+                        "fileId": "39",
+                        "originalId": "40",
+                        "publicId": "987",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-07-13 at 17.26.36.png",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1594684422426208:521312"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
